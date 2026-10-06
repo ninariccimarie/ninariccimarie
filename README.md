@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! I'm Nina 👋
+I’m a full-stack engineer from 🇵🇭 the Philippines, have worked in 🇸🇬 Singapore and relocating soon.
 
-<!--
-**ninariccimarie/ninariccimarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I intentionally worked with SaaS startups or growth phase companies from different industries, Finance, HR and Educational Technology.
 
-Here are some ideas to get you started:
+### The kind of work I enjoy
+I work best in environments that are fast-moving, ambiguous, and outcome-driven, where engineers are trusted to take ownership and shape both the problem and the solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m especially drawn to work that improves how people or teams operate in meaningful ways, not just incremental feature changes.
+
+## Tools & Technologies
+
+![Rust](https://img.shields.io/badge/Rust-df360c?style=for-the-badge&logo=rust) ![TypeScript](https://img.shields.io/badge/TypeScript-0969da?style=for-the-badge&logo=typescript&logoColor=ffffff) ![React](https://img.shields.io/badge/React-0969da?style=for-the-badge&logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00bcff?style=for-the-badge&logo=tailwindcss&logoColor=ffffff) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-b60707?style=for-the-badge&logo=rubyonrails&logoColor=ffffff) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-f6009b?style=for-the-badge&logo=graphql) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-f0f0f0?style=for-the-badge&logo=rabbitmq) ![Kafka](https://img.shields.io/badge/Kafka-f0f0f0?style=for-the-badge&logo=apachekafka&logoColor=171616) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-f0f0f0?style=for-the-badge&logo=jenkins&logoColor=171616) ![Datadog](https://img.shields.io/badge/Datadog-632ca6?style=for-the-badge&logo=datadog&logoColor=f7f7f7) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
